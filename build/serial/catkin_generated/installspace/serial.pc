@@ -1,0 +1,8 @@
+prefix=/home/wwl/chassis/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/wwl/chassis/install/include
+Libs: -L/home/wwl/chassis/install/lib -lserial
+Requires: 

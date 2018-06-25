@@ -1,0 +1,2 @@
+base_controller:kboard:serial:serial_node_pkt:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/wwl/chassis/devel -DCMAKE_INSTALL_PREFIX=/home/wwl/chassis/install -G Unix Makefiles

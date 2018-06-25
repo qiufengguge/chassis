@@ -1,0 +1,8 @@
+prefix=/home/wwl/chassis/install
+
+Name: serial_node_pkt
+Description: Description of serial_node_pkt
+Version: 0.0.0
+Cflags: -I/home/wwl/chassis/install/include
+Libs: -L/home/wwl/chassis/install/lib 
+Requires: message_runtime

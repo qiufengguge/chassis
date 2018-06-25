@@ -1,0 +1,8 @@
+prefix=/home/wwl/chassis/install
+
+Name: kboard
+Description: Description of kboard
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wwl/chassis/install/lib 
+Requires: 
